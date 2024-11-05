@@ -1,4 +1,4 @@
-# AM10_Final-Porject_Group-11
+# AM10_Final-Project_Group-11
 AM10_Final Porject Proposal_Group 11
 # Topic:
 This project aims to explore and analyze the factors that influence students' academic performance. Specifically, we will investigate how various social, economic, and behavioral factors correlate with exam scores. By visualizing these relationships, we aim to tell a story about the critical determinants of student success and offer insights into areas where interventions could be most effective.
